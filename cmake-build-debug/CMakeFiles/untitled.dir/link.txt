@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o  -o untitled  /usr/lib64/libsfml-system.so /usr/lib64/libsfml-graphics.so /usr/lib64/libsfml-window.so /usr/lib64/libsfml-network.so /usr/lib64/libsfml-audio.so 
