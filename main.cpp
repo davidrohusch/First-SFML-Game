@@ -8,6 +8,7 @@
 
 using namespace std;
 
+/*Hello */
 
 class Player{
 public:
@@ -20,8 +21,6 @@ public:
     float startY = windowHeight-ballR*2;
 
     float speed = 0.04;
-
-
 
 };
 
